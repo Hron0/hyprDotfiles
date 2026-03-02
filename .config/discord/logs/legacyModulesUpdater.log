@@ -1,0 +1,419 @@
+11/1/2025, 9:46:58 AM GMT+3 [Modules] Modules initializing
+11/1/2025, 9:46:58 AM GMT+3 [Modules] Distribution: remote
+11/1/2025, 9:46:58 AM GMT+3 [Modules] Host updates: enabled
+11/1/2025, 9:46:58 AM GMT+3 [Modules] Module updates: enabled
+11/1/2025, 9:46:58 AM GMT+3 [Modules] Module install path: /home/hrono/.config/discord/0.0.113/modules
+11/1/2025, 9:46:58 AM GMT+3 [Modules] Module installed file path: /home/hrono/.config/discord/0.0.113/modules/installed.json
+11/1/2025, 9:46:58 AM GMT+3 [Modules] Module download path: /home/hrono/.config/discord/0.0.113/modules/pending
+11/1/2025, 9:46:58 AM GMT+3 [Modules] Bootstrapping...
+11/1/2025, 9:46:58 AM GMT+3 [Modules] Installing discord_desktop_core@0 from /opt/discord/resources/bootstrap/discord_desktop_core.zip
+11/1/2025, 9:46:58 AM GMT+3 [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_desktop_core.zip'
+11/1/2025, 9:46:58 AM GMT+3 [Modules] Installing discord_erlpack@0 from /opt/discord/resources/bootstrap/discord_erlpack.zip
+11/1/2025, 9:46:58 AM GMT+3 [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_erlpack.zip'
+11/1/2025, 9:46:58 AM GMT+3 [Modules] Installing discord_spellcheck@0 from /opt/discord/resources/bootstrap/discord_spellcheck.zip
+11/1/2025, 9:46:58 AM GMT+3 [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_spellcheck.zip'
+11/1/2025, 9:46:58 AM GMT+3 [Modules] Installing discord_utils@0 from /opt/discord/resources/bootstrap/discord_utils.zip
+11/1/2025, 9:46:58 AM GMT+3 [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_utils.zip'
+11/1/2025, 9:46:58 AM GMT+3 [Modules] Installing discord_voice@0 from /opt/discord/resources/bootstrap/discord_voice.zip
+11/1/2025, 9:46:58 AM GMT+3 [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_voice.zip'
+11/1/2025, 9:46:58 AM GMT+3 [Modules] Installing discord_zstd@0 from /opt/discord/resources/bootstrap/discord_zstd.zip
+11/1/2025, 9:46:58 AM GMT+3 [Modules] Failed installing discord_zstd@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_zstd.zip'
+11/1/2025, 9:46:58 AM GMT+3 [Modules] Finished module installations. [success: 0] [failure: 6]
+11/1/2025, 9:46:58 AM GMT+3 [Modules] Checking for host updates.
+11/1/2025, 9:47:00 AM GMT+3 [Modules] Host is up to date.
+11/1/2025, 9:47:00 AM GMT+3 [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+11/1/2025, 9:47:01 AM GMT+3 [Modules] Module update available: discord_desktop_core@1 [installed: 0]
+11/1/2025, 9:47:01 AM GMT+3 [Modules] Module update available: discord_erlpack@1 [installed: 0]
+11/1/2025, 9:47:01 AM GMT+3 [Modules] Module update available: discord_spellcheck@1 [installed: 0]
+11/1/2025, 9:47:01 AM GMT+3 [Modules] Module update available: discord_utils@1 [installed: 0]
+11/1/2025, 9:47:01 AM GMT+3 [Modules] Module update available: discord_voice@1 [installed: 0]
+11/1/2025, 9:47:01 AM GMT+3 [Modules] Module update available: discord_zstd@1 [installed: 0]
+11/1/2025, 9:47:01 AM GMT+3 [Modules] Fetching discord_desktop_core@1 from https://discord.com/api/modules/stable/discord_desktop_core/1
+11/1/2025, 9:47:01 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip
+11/1/2025, 9:47:02 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 1%
+11/1/2025, 9:47:02 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 2%
+11/1/2025, 9:47:03 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 3%
+11/1/2025, 9:47:03 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 4%
+11/1/2025, 9:47:03 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 5%
+11/1/2025, 9:47:03 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 6%
+11/1/2025, 9:47:03 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 7%
+11/1/2025, 9:47:03 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 8%
+11/1/2025, 9:47:03 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 9%
+11/1/2025, 9:47:03 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 10%
+11/1/2025, 9:47:03 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 11%
+11/1/2025, 9:47:03 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 12%
+11/1/2025, 9:47:03 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 13%
+11/1/2025, 9:47:03 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 14%
+11/1/2025, 9:47:03 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 15%
+11/1/2025, 9:47:03 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 16%
+11/1/2025, 9:47:03 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 17%
+11/1/2025, 9:47:03 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 18%
+11/1/2025, 9:47:03 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 19%
+11/1/2025, 9:47:03 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 21%
+11/1/2025, 9:47:03 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 22%
+11/1/2025, 9:47:03 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 23%
+11/1/2025, 9:47:03 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 26%
+11/1/2025, 9:47:03 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 27%
+11/1/2025, 9:47:03 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 28%
+11/1/2025, 9:47:03 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 29%
+11/1/2025, 9:47:03 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 30%
+11/1/2025, 9:47:03 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 32%
+11/1/2025, 9:47:03 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 33%
+11/1/2025, 9:47:03 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 35%
+11/1/2025, 9:47:03 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 38%
+11/1/2025, 9:47:03 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 45%
+11/1/2025, 9:47:03 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 50%
+11/1/2025, 9:47:03 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 53%
+11/1/2025, 9:47:03 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 56%
+11/1/2025, 9:47:03 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 59%
+11/1/2025, 9:47:03 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 62%
+11/1/2025, 9:47:03 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 66%
+11/1/2025, 9:47:03 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 67%
+11/1/2025, 9:47:03 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 76%
+11/1/2025, 9:47:04 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 79%
+11/1/2025, 9:47:04 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 83%
+11/1/2025, 9:47:04 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 90%
+11/1/2025, 9:47:04 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip: 100%
+11/1/2025, 9:47:04 AM GMT+3 [Modules] Fetching discord_erlpack@1 from https://discord.com/api/modules/stable/discord_erlpack/1
+11/1/2025, 9:47:04 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip
+11/1/2025, 9:47:04 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 1%
+11/1/2025, 9:47:04 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 2%
+11/1/2025, 9:47:04 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 5%
+11/1/2025, 9:47:04 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 14%
+11/1/2025, 9:47:04 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 23%
+11/1/2025, 9:47:04 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 25%
+11/1/2025, 9:47:04 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 26%
+11/1/2025, 9:47:04 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 27%
+11/1/2025, 9:47:05 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 28%
+11/1/2025, 9:47:05 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 33%
+11/1/2025, 9:47:05 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 38%
+11/1/2025, 9:47:05 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 41%
+11/1/2025, 9:47:05 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 45%
+11/1/2025, 9:47:05 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 48%
+11/1/2025, 9:47:05 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 51%
+11/1/2025, 9:47:05 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 59%
+11/1/2025, 9:47:05 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 65%
+11/1/2025, 9:47:05 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 68%
+11/1/2025, 9:47:05 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 71%
+11/1/2025, 9:47:05 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 73%
+11/1/2025, 9:47:05 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 74%
+11/1/2025, 9:47:05 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 76%
+11/1/2025, 9:47:05 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 82%
+11/1/2025, 9:47:05 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 85%
+11/1/2025, 9:47:05 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 88%
+11/1/2025, 9:47:05 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 92%
+11/1/2025, 9:47:05 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip: 100%
+11/1/2025, 9:47:05 AM GMT+3 [Modules] Fetching discord_spellcheck@1 from https://discord.com/api/modules/stable/discord_spellcheck/1
+11/1/2025, 9:47:05 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip
+11/1/2025, 9:47:06 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 1%
+11/1/2025, 9:47:06 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 2%
+11/1/2025, 9:47:06 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 3%
+11/1/2025, 9:47:07 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 4%
+11/1/2025, 9:47:07 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 5%
+11/1/2025, 9:47:07 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 6%
+11/1/2025, 9:47:07 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 7%
+11/1/2025, 9:47:08 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 8%
+11/1/2025, 9:47:08 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 9%
+11/1/2025, 9:47:08 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 10%
+11/1/2025, 9:47:08 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 11%
+11/1/2025, 9:47:08 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 12%
+11/1/2025, 9:47:08 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 13%
+11/1/2025, 9:47:09 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 14%
+11/1/2025, 9:47:09 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 15%
+11/1/2025, 9:47:09 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 16%
+11/1/2025, 9:47:09 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 17%
+11/1/2025, 9:47:09 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 18%
+11/1/2025, 9:47:09 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 19%
+11/1/2025, 9:47:10 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 20%
+11/1/2025, 9:47:10 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 21%
+11/1/2025, 9:47:10 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 22%
+11/1/2025, 9:47:10 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 23%
+11/1/2025, 9:47:10 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 24%
+11/1/2025, 9:47:10 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 25%
+11/1/2025, 9:47:10 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 26%
+11/1/2025, 9:47:11 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 27%
+11/1/2025, 9:47:11 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 28%
+11/1/2025, 9:47:11 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 29%
+11/1/2025, 9:47:11 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 30%
+11/1/2025, 9:47:11 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 31%
+11/1/2025, 9:47:11 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 32%
+11/1/2025, 9:47:11 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 33%
+11/1/2025, 9:47:11 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 34%
+11/1/2025, 9:47:12 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 35%
+11/1/2025, 9:47:12 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 36%
+11/1/2025, 9:47:12 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 37%
+11/1/2025, 9:47:12 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 38%
+11/1/2025, 9:47:12 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 39%
+11/1/2025, 9:47:12 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 40%
+11/1/2025, 9:47:12 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 41%
+11/1/2025, 9:47:12 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 42%
+11/1/2025, 9:47:12 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 43%
+11/1/2025, 9:47:12 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 44%
+11/1/2025, 9:47:12 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 45%
+11/1/2025, 9:47:12 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 46%
+11/1/2025, 9:47:13 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 47%
+11/1/2025, 9:47:13 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 48%
+11/1/2025, 9:47:13 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 49%
+11/1/2025, 9:47:13 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 50%
+11/1/2025, 9:47:13 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 51%
+11/1/2025, 9:47:13 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 52%
+11/1/2025, 9:47:13 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 53%
+11/1/2025, 9:47:13 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 54%
+11/1/2025, 9:47:13 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 55%
+11/1/2025, 9:47:13 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 56%
+11/1/2025, 9:47:13 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 57%
+11/1/2025, 9:47:13 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 58%
+11/1/2025, 9:47:13 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 59%
+11/1/2025, 9:47:13 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 60%
+11/1/2025, 9:47:13 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 61%
+11/1/2025, 9:47:13 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 62%
+11/1/2025, 9:47:13 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 63%
+11/1/2025, 9:47:13 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 64%
+11/1/2025, 9:47:13 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 65%
+11/1/2025, 9:47:14 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 66%
+11/1/2025, 9:47:14 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 67%
+11/1/2025, 9:47:14 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 68%
+11/1/2025, 9:47:14 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 69%
+11/1/2025, 9:47:14 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 70%
+11/1/2025, 9:47:14 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 71%
+11/1/2025, 9:47:14 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 72%
+11/1/2025, 9:47:14 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 73%
+11/1/2025, 9:47:14 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 74%
+11/1/2025, 9:47:14 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 75%
+11/1/2025, 9:47:14 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 76%
+11/1/2025, 9:47:14 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 77%
+11/1/2025, 9:47:14 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 78%
+11/1/2025, 9:47:14 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 79%
+11/1/2025, 9:47:14 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 80%
+11/1/2025, 9:47:14 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 81%
+11/1/2025, 9:47:14 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 82%
+11/1/2025, 9:47:14 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 83%
+11/1/2025, 9:47:14 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 84%
+11/1/2025, 9:47:14 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 85%
+11/1/2025, 9:47:14 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 86%
+11/1/2025, 9:47:14 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 87%
+11/1/2025, 9:47:14 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 88%
+11/1/2025, 9:47:14 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 89%
+11/1/2025, 9:47:14 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 90%
+11/1/2025, 9:47:14 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 91%
+11/1/2025, 9:47:14 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 92%
+11/1/2025, 9:47:14 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 93%
+11/1/2025, 9:47:14 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 94%
+11/1/2025, 9:47:14 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 95%
+11/1/2025, 9:47:14 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 96%
+11/1/2025, 9:47:15 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 97%
+11/1/2025, 9:47:15 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 98%
+11/1/2025, 9:47:15 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 99%
+11/1/2025, 9:47:15 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip: 100%
+11/1/2025, 9:47:15 AM GMT+3 [Modules] Fetching discord_utils@1 from https://discord.com/api/modules/stable/discord_utils/1
+11/1/2025, 9:47:15 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip
+11/1/2025, 9:47:15 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 1%
+11/1/2025, 9:47:15 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 2%
+11/1/2025, 9:47:15 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 3%
+11/1/2025, 9:47:15 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 5%
+11/1/2025, 9:47:15 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 9%
+11/1/2025, 9:47:15 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 11%
+11/1/2025, 9:47:15 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 12%
+11/1/2025, 9:47:15 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 13%
+11/1/2025, 9:47:15 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 14%
+11/1/2025, 9:47:15 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 15%
+11/1/2025, 9:47:15 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 17%
+11/1/2025, 9:47:15 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 18%
+11/1/2025, 9:47:15 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 19%
+11/1/2025, 9:47:15 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 20%
+11/1/2025, 9:47:15 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 21%
+11/1/2025, 9:47:15 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 22%
+11/1/2025, 9:47:15 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 23%
+11/1/2025, 9:47:15 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 24%
+11/1/2025, 9:47:15 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 25%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 26%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 27%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 28%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 29%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 30%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 31%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 32%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 33%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 34%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 35%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 36%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 37%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 38%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 39%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 40%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 41%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 43%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 44%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 45%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 46%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 47%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 49%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 51%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 55%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 57%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 58%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 59%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 60%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 61%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 62%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 63%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 64%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 65%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 66%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 67%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 68%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 69%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 70%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 71%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 72%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 73%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 74%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 75%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 76%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 77%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 78%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 79%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 80%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 81%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 82%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 83%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 84%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 85%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 86%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 87%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 88%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 89%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 90%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 91%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 92%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 93%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 94%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 95%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 96%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 97%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 98%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 99%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip: 100%
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Fetching discord_voice@1 from https://discord.com/api/modules/stable/discord_voice/1
+11/1/2025, 9:47:16 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip
+11/1/2025, 9:47:17 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 1%
+11/1/2025, 9:47:17 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 2%
+11/1/2025, 9:47:17 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 3%
+11/1/2025, 9:47:17 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 4%
+11/1/2025, 9:47:17 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 5%
+11/1/2025, 9:47:17 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 6%
+11/1/2025, 9:47:17 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 7%
+11/1/2025, 9:47:17 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 8%
+11/1/2025, 9:47:17 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 9%
+11/1/2025, 9:47:17 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 10%
+11/1/2025, 9:47:17 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 11%
+11/1/2025, 9:47:17 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 12%
+11/1/2025, 9:47:17 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 13%
+11/1/2025, 9:47:17 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 14%
+11/1/2025, 9:47:17 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 15%
+11/1/2025, 9:47:17 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 16%
+11/1/2025, 9:47:17 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 17%
+11/1/2025, 9:47:17 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 18%
+11/1/2025, 9:47:17 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 19%
+11/1/2025, 9:47:17 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 20%
+11/1/2025, 9:47:17 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 21%
+11/1/2025, 9:47:17 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 22%
+11/1/2025, 9:47:17 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 23%
+11/1/2025, 9:47:18 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 24%
+11/1/2025, 9:47:18 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 25%
+11/1/2025, 9:47:18 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 26%
+11/1/2025, 9:47:18 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 27%
+11/1/2025, 9:47:18 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 28%
+11/1/2025, 9:47:18 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 29%
+11/1/2025, 9:47:18 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 30%
+11/1/2025, 9:47:18 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 31%
+11/1/2025, 9:47:18 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 32%
+11/1/2025, 9:47:18 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 33%
+11/1/2025, 9:47:18 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 34%
+11/1/2025, 9:47:18 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 35%
+11/1/2025, 9:47:18 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 36%
+11/1/2025, 9:47:18 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 37%
+11/1/2025, 9:47:18 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 38%
+11/1/2025, 9:47:18 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 39%
+11/1/2025, 9:47:18 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 40%
+11/1/2025, 9:47:18 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 41%
+11/1/2025, 9:47:18 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 42%
+11/1/2025, 9:47:18 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 43%
+11/1/2025, 9:47:18 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 44%
+11/1/2025, 9:47:18 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 45%
+11/1/2025, 9:47:18 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 46%
+11/1/2025, 9:47:18 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 47%
+11/1/2025, 9:47:18 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 48%
+11/1/2025, 9:47:18 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 49%
+11/1/2025, 9:47:18 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 50%
+11/1/2025, 9:47:18 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 51%
+11/1/2025, 9:47:18 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 52%
+11/1/2025, 9:47:18 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 53%
+11/1/2025, 9:47:18 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 54%
+11/1/2025, 9:47:18 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 55%
+11/1/2025, 9:47:18 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 56%
+11/1/2025, 9:47:18 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 57%
+11/1/2025, 9:47:18 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 58%
+11/1/2025, 9:47:18 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 59%
+11/1/2025, 9:47:18 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 60%
+11/1/2025, 9:47:18 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 61%
+11/1/2025, 9:47:18 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 62%
+11/1/2025, 9:47:19 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 63%
+11/1/2025, 9:47:19 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 64%
+11/1/2025, 9:47:19 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 65%
+11/1/2025, 9:47:19 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 66%
+11/1/2025, 9:47:19 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 67%
+11/1/2025, 9:47:19 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 68%
+11/1/2025, 9:47:19 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 69%
+11/1/2025, 9:47:19 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 70%
+11/1/2025, 9:47:19 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 71%
+11/1/2025, 9:47:19 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 72%
+11/1/2025, 9:47:19 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 73%
+11/1/2025, 9:47:19 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 74%
+11/1/2025, 9:47:19 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 75%
+11/1/2025, 9:47:19 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 76%
+11/1/2025, 9:47:19 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 77%
+11/1/2025, 9:47:19 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 78%
+11/1/2025, 9:47:19 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 79%
+11/1/2025, 9:47:19 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 80%
+11/1/2025, 9:47:19 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 81%
+11/1/2025, 9:47:19 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 82%
+11/1/2025, 9:47:19 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 83%
+11/1/2025, 9:47:19 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 84%
+11/1/2025, 9:47:19 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 85%
+11/1/2025, 9:47:19 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 86%
+11/1/2025, 9:47:19 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 87%
+11/1/2025, 9:47:19 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 88%
+11/1/2025, 9:47:19 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 89%
+11/1/2025, 9:47:19 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 90%
+11/1/2025, 9:47:19 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 91%
+11/1/2025, 9:47:19 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 92%
+11/1/2025, 9:47:19 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 93%
+11/1/2025, 9:47:19 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 94%
+11/1/2025, 9:47:19 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 95%
+11/1/2025, 9:47:19 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 96%
+11/1/2025, 9:47:19 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 97%
+11/1/2025, 9:47:19 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 98%
+11/1/2025, 9:47:19 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 99%
+11/1/2025, 9:47:19 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip: 100%
+11/1/2025, 9:47:19 AM GMT+3 [Modules] Fetching discord_zstd@1 from https://discord.com/api/modules/stable/discord_zstd/1
+11/1/2025, 9:47:19 AM GMT+3 [Modules] Streaming discord_zstd@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_zstd-1.zip
+11/1/2025, 9:47:20 AM GMT+3 [Modules] Streaming discord_zstd@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_zstd-1.zip: 8%
+11/1/2025, 9:47:20 AM GMT+3 [Modules] Streaming discord_zstd@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_zstd-1.zip: 15%
+11/1/2025, 9:47:20 AM GMT+3 [Modules] Streaming discord_zstd@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_zstd-1.zip: 44%
+11/1/2025, 9:47:20 AM GMT+3 [Modules] Streaming discord_zstd@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_zstd-1.zip: 67%
+11/1/2025, 9:47:20 AM GMT+3 [Modules] Streaming discord_zstd@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_zstd-1.zip: 99%
+11/1/2025, 9:47:20 AM GMT+3 [Modules] Streaming discord_zstd@1 to /home/hrono/.config/discord/0.0.113/modules/pending/discord_zstd-1.zip: 100%
+11/1/2025, 9:47:20 AM GMT+3 [Modules] Finished module downloads. [success: 6] [failure: 0]
+11/1/2025, 9:47:20 AM GMT+3 [Modules] Installing updates...
+11/1/2025, 9:47:20 AM GMT+3 [Modules] Installing discord_desktop_core@1 from /home/hrono/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip
+11/1/2025, 9:47:20 AM GMT+3 [Modules] Installing discord_erlpack@1 from /home/hrono/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip
+11/1/2025, 9:47:21 AM GMT+3 [Modules] Installing discord_spellcheck@1 from /home/hrono/.config/discord/0.0.113/modules/pending/discord_spellcheck-1.zip
+11/1/2025, 9:47:23 AM GMT+3 [Modules] Installing discord_utils@1 from /home/hrono/.config/discord/0.0.113/modules/pending/discord_utils-1.zip
+11/1/2025, 9:47:23 AM GMT+3 [Modules] Installing discord_voice@1 from /home/hrono/.config/discord/0.0.113/modules/pending/discord_voice-1.zip
+11/1/2025, 9:47:24 AM GMT+3 [Modules] Installing discord_zstd@1 from /home/hrono/.config/discord/0.0.113/modules/pending/discord_zstd-1.zip
+11/1/2025, 9:47:24 AM GMT+3 [Modules] Finished module installations. [success: 6] [failure: 0]
+11/1/2025, 9:47:24 AM GMT+3 [Modules] Checking for host updates.
+11/1/2025, 9:47:25 AM GMT+3 [Modules] Host is up to date.
+11/1/2025, 9:47:25 AM GMT+3 [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+11/1/2025, 9:47:25 AM GMT+3 [Modules] No module updates available.

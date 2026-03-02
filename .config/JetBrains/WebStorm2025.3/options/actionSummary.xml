@@ -1,0 +1,52 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$SelectAll">
+      <i c="1" l="1767339544626" />
+    </e>
+    <e n="ChangeKeymap">
+      <i c="1" l="1767340389489" />
+    </e>
+    <e n="ChangeLaf">
+      <i c="4" l="1767340397167" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="2" l="1767340766995" />
+    </e>
+    <e n="EditorPaste">
+      <i c="1" l="1767339545163" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="18" l="1767340806906" />
+    </e>
+    <e n="SettingsSyncStatusAction">
+      <i c="3" l="1767340490755" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="2" l="1767338841804" />
+    </e>
+    <e n="WelcomeScreen.Plugins">
+      <i c="8" l="1767340809158" />
+    </e>
+    <e n="com.intellij.ide.plugins.PluginManagerConfigurablePanel$5">
+      <i c="1" l="1767339503215" />
+    </e>
+    <e n="com.intellij.ide.plugins.PluginManagerConfigurablePanel$8">
+      <i c="2" l="1767339676906" />
+    </e>
+    <e n="com.intellij.ide.plugins.newui.TabbedPaneHeaderComponent$3">
+      <i c="4" l="1767339675639" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="2" l="1767339560276" />
+    </e>
+    <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
+      <i c="1" l="1767339805628" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="1" l="1767338865233" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$AddButton">
+      <i c="1" l="1767339505947" />
+    </e>
+  </component>
+</application>

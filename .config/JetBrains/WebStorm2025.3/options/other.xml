@@ -1,0 +1,58 @@
+<application>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="15.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "GeneralSettings.initiallyConfigured": "true",
+    "InstalledPluginsSearchHistory": "catp\ncat\nca\nc",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "1",
+    "MarketplacePluginsSearchHistory": "Cat\nCatpu\nCatp\nC",
+    "RunOnceActivity.TerminalOptionsProvider.migration.2025.1.1": "true",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "RunOnceActivity.git.modal.commit.toggle": "true",
+    "RunOnceActivity.llm.onboarding.window.launcher.v7": "true",
+    "RunOnceActivity.reset.auto.reparse.settings.to.default": "true",
+    "RunOnceActivity.webstorm.auto-popup.quick-doc.initialized": "true",
+    "SettingsSearchHistory": "cat",
+    "evlsprt.253": "19b33433080",
+    "evlsprt3.253": "3",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "253.29346.143",
+    "fileTypeChangedCounter": "17",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.Plugins Auto-Update": "1",
+    "ide.islands.ab3": "true",
+    "input.method.disabler.muted": "true",
+    "last_opened_file_path": "/home/hrono/Downloads",
+    "llm.installer.auto.activation.executed": "true",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "plugins.preselection.path": "/home/hrono/Downloads/plugins",
+    "previousColorScheme": "_@user_Islands Dark",
+    "registry.to.advanced.settings.migration.build": "WS-253.29346.143",
+    "terminal.gen.one.option.visible": "false",
+    "ts.lib.d.ts.version": "5.9.3",
+    "webstorm.hide.welcome.screen.promo": "true"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/hrono/Downloads/plugins/Catppuccin Theme.zip",
+      "/home/hrono/Downloads/plugins.zip",
+      "/home/hrono/Downloads"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

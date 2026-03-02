@@ -1,0 +1,3 @@
+[filesystem "JetBrains s.r.o.|21.0.9|/dev/mapper/main-root"]
+	timestampResolution = 2902 nanoseconds
+	minRacyThreshold = 0 nanoseconds
