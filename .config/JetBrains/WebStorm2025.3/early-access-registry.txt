@@ -8,3 +8,5 @@ idea.plugins.compatible.build
 
 moved.to.new.ui
 true
+switched.from.classic.to.islands
+false

@@ -1,15 +1,5 @@
 <application>
   <component name="EventLogAllowedList">
-    <update recorder-id="FUS_grazie_rule_ids.ndjson" last-modified="1746475479000" />
-    <update recorder-id="MP" last-modified="1761945433000" />
-    <update recorder-id="FUS_grazie_rule_long_ids.ndjson" last-modified="1762361097000" />
-    <update recorder-id="FUS" last-modified="1767042259000" />
-    <update recorder-id="FUS_crate_names.ndjson" last-modified="1746475479000" />
-    <update recorder-id="FUS_python_packages.ndjson" last-modified="1764968626000" />
-    <update recorder-id="FUS_dotnet_technologies.ndjson" last-modified="1746475479000" />
-    <update recorder-id="FUS_look_and_feel.ndjson" last-modified="1746475479000" />
-    <update recorder-id="FUS_ktor_feature_ids.ndjson" last-modified="1757275432000" />
-    <update recorder-id="ML" last-modified="1765919072000" />
     <build recorder-id="MP" build-number="WS-253.29346.143" />
     <build recorder-id="FUS" build-number="WS-253.29346.143" />
     <build recorder-id="ML" build-number="WS-253.29346.143" />

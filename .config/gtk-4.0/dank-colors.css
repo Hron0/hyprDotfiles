@@ -3,90 +3,46 @@
 * Generated with Matugen
 */
 
-@define-color accent_color #80d4da;
-@define-color accent_fg_color #00363a;
-@define-color accent_bg_color #80d4da;
-@define-color window_bg_color #1a2121;
-@define-color window_fg_color #dde4e4;
-@define-color headerbar_bg_color #1a2121;
-@define-color headerbar_fg_color #dde4e4;
-@define-color popover_bg_color #1a2121;
-@define-color popover_fg_color #dde4e4;
-@define-color view_bg_color #1a2121;
-@define-color view_fg_color #dde4e4;
-@define-color card_bg_color #1a2121;
-@define-color card_fg_color #dde4e4;
-@define-color sidebar_bg_color @window_bg_color;
-@define-color sidebar_fg_color @window_fg_color;
-@define-color sidebar_border_color @window_bg_color;
-@define-color sidebar_backdrop_color @window_bg_color;
+/* via thairanaru on GitHub: */
 
-/* Titlebar and headerbar specific colors for window decorations */
-@define-color theme_bg_color #1a2121;
-@define-color theme_fg_color #dde4e4;
-@define-color theme_base_color #1a2121;
-@define-color theme_text_color #dde4e4;
-@define-color theme_selected_bg_color #80d4da;
-@define-color theme_selected_fg_color #00363a;
-@define-color theme_button_background_normal #252b2c;
-@define-color theme_button_foreground_normal #dde4e4;
-@define-color theme_button_background_hover alpha(#dde4e4, 0.08);
-@define-color theme_button_foreground_hover #dde4e4;
-@define-color theme_button_background_active alpha(#dde4e4, 0.12);
-@define-color theme_button_foreground_active #dde4e4;
-@define-color theme_button_background_disabled alpha(#dde4e4, 0.04);
-@define-color theme_button_foreground_disabled alpha(#dde4e4, 0.38);
+/* Destructive colors are basically error colors */
+@define-color destructive_bg_color #ff4080;
+@define-color destructive_fg_color #601410;
+/* Follow material spec */
+@define-color error_bg_color #ff4080;
+@define-color error_fg_color #601410;
+/* Follow material spec (also I think looks nicer) */
+@define-color accent_fg_color #ffffff;
+@define-color accent_bg_color #5dc7cf;
+/* Use surface instead of background */
+@define-color window_bg_color #0d0d0d;
+@define-color window_fg_color #f0f0f0;
+/* Make it more similar to Adwaita */
+@define-color view_bg_color #0d0d0d;
+@define-color view_fg_color #f0f0f0;
+@define-color headerbar_bg_color #0d0d0d;
+@define-color headerbar_fg_color #f0f0f0;
+@define-color sidebar_bg_color #1a0d1a;
+@define-color sidebar_fg_color #f0f0f0;
+/* There is only like one application I know that uses this, and there isn't a good way to get
+a color between surface and surface container so I think just giving this surface is a good enough fallback*/
+@define-color secondary_sidebar_bg_color #0d0d0d;
+@define-color secondary_sidebar_fg_color #f0f0f0;
+@define-color card_bg_color #1a0d1a;
+@define-color card_fg_color #f0f0f0;
+@define-color overview_bg_color #1a0d1a;
+@define-color overview_fg_color #f0f0f0;
+@define-color popover_bg_color #1a0d1a;
+@define-color popover_fg_color #f0f0f0;
+@define-color dialog_bg_color #0d0d0d;
+@define-color dialog_fg_color #f0f0f0;
 
-/* Additional headerbar-specific colors for GTK4 compatibility */
-@define-color headerbar_backdrop_color #161d1d;
-@define-color headerbar_border_color #899393;
-@define-color headerbar_darker_shade_color #3f4849;
-@define-color headerbar_shade_color #3f4849;
-
-/* Window control and decoration colors */
-@define-color wm_bg_a #1a2121;
-@define-color wm_bg_b #252b2c;
-@define-color wm_border_a #899393;
-@define-color wm_border_b #3f4849;
-@define-color wm_shadow #000000;
-@define-color wm_outline #899393;
-
-/* Menu and popover colors */
-@define-color menu_bg_color #1a2121;
-@define-color menu_fg_color #dde4e4;
-@define-color menu_selected_bg_color #80d4da;
-@define-color menu_selected_fg_color #00363a;
-
-/* Button and control colors */
-@define-color button_bg_color #252b2c;
-@define-color button_fg_color #dde4e4;
-@define-color button_border_color #3f4849;
-@define-color button_active_bg_color #80d4da;
-@define-color button_active_fg_color #00363a;
-
-/* Entry and input colors */
-@define-color entry_bg_color #3f4849;
-@define-color entry_fg_color #bec8c9;
-@define-color entry_border_color #899393;
-@define-color entry_focus_border_color #80d4da;
-
-/* Scrollbar colors */
-@define-color scrollbar_bg_color #3f4849;
-@define-color scrollbar_fg_color #bec8c9;
-@define-color scrollbar_hover_color #80d4da;
-
-/* Selection and highlight colors */
-@define-color selection_bg_color #80d4da;
-@define-color selection_fg_color #00363a;
-
-/* Tooltip colors */
-@define-color tooltip_bg_color #dde4e4;
-@define-color tooltip_fg_color #2b3232;
-
-/* Warning and error colors */
-@define-color warning_color #b6c7ea;
-@define-color warning_fg_color #20304c;
-@define-color error_color #ffb4ab;
-@define-color error_fg_color #690005;
-@define-color success_color #374764;
-@define-color success_fg_color #d6e3ff;
+/* Backdrop/unfocused states - prevents white flash on window unfocus */
+@define-color headerbar_backdrop_color @window_bg_color;
+@define-color sidebar_backdrop_color @sidebar_bg_color;
+@define-color theme_unfocused_fg_color @window_fg_color;
+@define-color theme_unfocused_text_color @view_fg_color;
+@define-color theme_unfocused_bg_color @window_bg_color;
+@define-color theme_unfocused_base_color @window_bg_color;
+@define-color theme_unfocused_selected_bg_color @accent_bg_color;
+@define-color theme_unfocused_selected_fg_color @accent_fg_color;

@@ -5,6 +5,7 @@
         <entry key="PLUGINS">
           <value>
             <list>
+              <option value="cn.xr21.chat.gpt" />
               <option value="com.github.catppuccin.jetbrains" />
               <option value="com.github.catppuccin.jetbrains_icons" />
               <option value="com.intellij.ml.llm" />
@@ -15,6 +16,6 @@
         </entry>
       </map>
     </option>
-    <option name="migrationFromOldStorageChecked" value="true" />
+    <option name="syncEnabled" value="true" />
   </component>
 </application>
