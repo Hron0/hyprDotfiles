@@ -212,13 +212,10 @@ hl.bind("SUPER + SHIFT" .. " + " .. "down", hl.dsp.window.swap({ direction = "do
 
 -- Move windows
 
-hl.bind("SUPER + CTRL + SHIFT" .. " + " .. "left", { direction = "l" })
-
-hl.bind("SUPER + CTRL + SHIFT" .. " + " .. "right", { direction = "r" })
-
-hl.bind("SUPER + CTRL + SHIFT" .. " + " .. "up", { direction = "u" })
-
-hl.bind("SUPER + CTRL + SHIFT" .. " + " .. "down", { direction = "d" })
+hl.bind("SUPER + CTRL + SHIFT + left", hl.dsp.window.move({ direction = "l" }))
+hl.bind("SUPER + CTRL + SHIFT + right", hl.dsp.window.move({ direction = "r" }))
+hl.bind("SUPER + CTRL + SHIFT + up", hl.dsp.window.move({ direction = "u" }))
+hl.bind("SUPER + CTRL + SHIFT + down", hl.dsp.window.move({ direction = "d" }))
 
 -- Workspaces [1-6] 
 
