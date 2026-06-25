@@ -479,7 +479,7 @@ hl.layer_rule({
     match = {
         namespace = "swaync-control-center",
     },
-    animation = { "slide", "right" },
+    animation = "slide right",
 })
 
 hl.layer_rule({

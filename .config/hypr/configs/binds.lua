@@ -97,19 +97,13 @@ hl.bind("SUPER + CTRL" .. " + " .. "P", hl.dsp.exec_cmd("~/.local/bin/restart_wa
 
 -- restart waybar
 
--- master only
-
-hl.bind("SUPER" .. " + " .. "A", hl.dsp.layout("rollprev"))
-
-hl.bind("SUPER" .. " + " .. "X", hl.dsp.layout("swapwithmaster master"))
-
-hl.bind("SUPER" .. " + " .. "D", hl.dsp.layout("rollnext"))
-
-hl.bind("SUPER + SHIFT" .. " + " .. "A", hl.dsp.layout("cycleprev"))
-
-hl.bind("SUPER + SHIFT" .. " + " .. "X", hl.dsp.layout("focusmaster"))
-
-hl.bind("SUPER + SHIFT" .. " + " .. "D", hl.dsp.layout("cyclenext"))
+-- master layout only (disabled — general.layout is dwindle)
+-- hl.bind("SUPER + A", hl.dsp.layout("rollprev"))
+-- hl.bind("SUPER + X", hl.dsp.layout("swapwithmaster master"))
+-- hl.bind("SUPER + D", hl.dsp.layout("rollnext"))
+-- hl.bind("SUPER + SHIFT + A", hl.dsp.layout("cycleprev"))
+-- hl.bind("SUPER + SHIFT + X", hl.dsp.layout("focusmaster"))
+-- hl.bind("SUPER + SHIFT + D", hl.dsp.layout("cyclenext"))
 
 -- A bunch of rofi menus
 
