@@ -390,8 +390,8 @@ hl.window_rule({
     match = {
         class = "Alacritty",
     },
-    opacity = { 0.9, 0.8 },
-    border_size = { 2, "override" },
+    opacity = "0.9 0.8",
+    border_size = 2,
     persistent_size = true,
 })
 
@@ -452,7 +452,7 @@ hl.window_rule({
     match = {
         tag = "opaque",
     },
-    opacity = { 1, "override" },
+    opacity = "1 override",
 })
 
 hl.window_rule({
@@ -460,7 +460,7 @@ hl.window_rule({
     match = {
         tag = "bordered",
     },
-    border_size = { 2, "override" },
+    border_size = 2,
 })
 
 -- Misc
