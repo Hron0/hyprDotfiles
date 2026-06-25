@@ -35,7 +35,6 @@ hl.config({
 
 hl.config({
     dwindle = {
-        pseudotile = true,
         preserve_split = true,
         special_scale_factor = 0.9,
     },
@@ -73,7 +72,7 @@ hl.config({
             -- clickfinger_behavior = true
             scroll_factor = 0.2,
         },
-        kb_layout = { "us", "ru" },
+        kb_layout = "us,ru",
         kb_options = "grp:alt_shift_toggle",
     },
 })
@@ -96,7 +95,6 @@ hl.config({
         -- disable_hyprland_qtutils_check = true
         focus_on_activate = true,
         vrr = 1,
-        vfr = true,
     },
 })
 

@@ -285,8 +285,6 @@ hl.bind("XF86AudioMute", hl.dsp.exec_cmd("pactl set-sink-mute @DEFAULT_SINK@ tog
 
 hl.bind("XF86AudioMicMute", hl.dsp.exec_cmd("~/.local/bin/toggle_microphone"))
 
-hl.bind("XF86AudioPlayPause", hl.dsp.exec_cmd("playerctl play-pause"))
-
 hl.bind("XF86AudioPlay", hl.dsp.exec_cmd("playerctl play"))
 
 hl.bind("XF86AudioPause", hl.dsp.exec_cmd("playerctl pause"))
